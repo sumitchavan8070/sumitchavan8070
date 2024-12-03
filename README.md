@@ -71,4 +71,4 @@
 ---
 
 ### **API Testing**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%230077B5.svg?style=for-the-badge&logo=thunderclient&logoColor=white
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%230077B5.svg?style=for-the-badge&logo=thunderclient&logoColor=white)
